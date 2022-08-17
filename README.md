@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Hapi js + Type Orm
 
 Steps to run this project:
 
