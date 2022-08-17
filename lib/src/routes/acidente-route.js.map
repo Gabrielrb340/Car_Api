@@ -1,0 +1,1 @@
+{"version":3,"file":"acidente-route.js","sourceRoot":"","sources":["../../../src/routes/acidente-route.ts"],"names":[],"mappings":";;;AACA,0EAAoE;AACpE,IAAM,UAAU,GAAG,IAAI,6BAAkB,EAAE,CAAC;AAE/B,QAAA,aAAa,GAAkB;IAC1C;QACE,MAAM,EAAE,MAAM;QACd,IAAI,EAAE,kBAAkB;QACxB,OAAO,EAAE,UAAU,CAAC,aAAa;KAClC;CACF,CAAA"}
